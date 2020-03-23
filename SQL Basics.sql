@@ -23,4 +23,4 @@ SELECT MAX(Orders) FROM IEEEMerchStore;
 SELECT SUM(Orders) FROM IEEEMerchStore GROUP BY OrderedBy;
 SELECT SUM(Orders) FROM IEEEMerchStore GROUP BY ItemName;
 SELECT COUNT(iD) FROM IEEEMerchStore;
-SELECT MAX(Orders) FROM IEEEMerchStore
+SELECT MAX(Orders) FROM IEEEMerchStore;
